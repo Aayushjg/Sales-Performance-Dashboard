@@ -50,3 +50,6 @@ It combines raw sales data with visual analytics to make **data-driven decision-
 
 
 ✨ **Created as part of a data visualization & analysis learning project.**
+
+**OUTPUT:-
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/e76234a2-efdb-41d4-ae86-5ff820c80164" />
